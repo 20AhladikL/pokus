@@ -2,5 +2,5 @@
 prvni repozitař
 
 ## seznam
--prvni 
--druhy
+- prvni 
+- druhy
