@@ -1,4 +1,4 @@
-# pokus
+# pokus čtvrtek
 prvni repozitař
 
 ## seznam
